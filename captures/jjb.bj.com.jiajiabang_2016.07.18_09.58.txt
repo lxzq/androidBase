@@ -1,0 +1,38 @@
+TASK jjb.bj.com.jiajiabang id=61
+  ACTIVITY jjb.bj.com.jiajiabang/.activity.MainActivity 22067ca7 pid=20325
+    Local FragmentActivity 30508e02 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@335a33e5
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@335a33e5
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{21560eba V.E..... ... 0,0-480,800}
+        android.widget.LinearLayout{7fd216b V.E..... ... 0,0-480,800}
+          android.view.ViewStub{ab804c8 G.E..... ... 0,0-0,0 #1020373}
+          android.widget.FrameLayout{1c7f2961 V.E..... ... 0,38-480,800}
+            android.support.v7.internal.widget.FitWindowsLinearLayout{2c65c86 V.E..... ... 0,0-480,762 #7f0d004b app:id/action_bar_root}
+              android.support.v7.internal.widget.ViewStubCompat{344a6947 G.E..... ... 0,0-0,0 #7f0d004c app:id/action_mode_bar_stub}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{23aca574 V.E..... ... 0,0-480,762 #1020002 android:id/content}
+                android.widget.RelativeLayout{36a3fa9d V.E..... ... 0,0-480,762}
+                  android.support.v7.widget.AppCompatButton{2c9bbb12 VFED..C. ... 0,0-132,72 #7f0d0060 app:id/sao}
+                  android.support.v7.widget.AppCompatButton{333a52e3 VFED..C. ... 0,0-132,72 #7f0d0061 app:id/select_image}
+                  android.widget.ImageView{13a8a4e0 V.ED.... ... 0,72-450,522 #7f0d0038 app:id/image}
+                  android.support.v7.widget.AppCompatButton{264aa399 VFED..C. ... 0,522-132,594 #7f0d0062 app:id/upload}
+                  android.support.v7.widget.AppCompatTextView{2cf6765e V.ED.... ... 0,594-480,627 #7f0d0063 app:id/image_path}
+                  android.support.v4.widget.SwipeRefreshLayout{27b53a3f V.ED.... ... 0,72-480,762 #7f0d0064 app:id/id_swipe_ly}
+                    android.support.v4.widget.CircleImageView{2ba32f0c G.ED.... ... 210,-60-270,0}
+                    android.widget.ListView{3c18e055 VFED.VC. F.. 0,0-480,690 #7f0d0065 app:id/id_list_view}
+                      android.widget.LinearLayout{1af9a6a V.E..... ... 0,0-480,61}
+                        android.support.v7.widget.AppCompatTextView{10cd3b5b V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}
+                      android.widget.LinearLayout{32da2ff8 V.E..... ... 0,62-480,123}
+                        android.support.v7.widget.AppCompatTextView{33542cd1 V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}
+                      android.widget.LinearLayout{3b24f336 V.E..... ... 0,124-480,185}
+                        android.support.v7.widget.AppCompatTextView{29a3237 V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}
+                      android.widget.LinearLayout{247e53a4 V.E..... ... 0,186-480,247}
+                        android.support.v7.widget.AppCompatTextView{1c1dc50d V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}
+                      android.widget.LinearLayout{3fc50cc2 V.E..... ... 0,248-480,309}
+                        android.support.v7.widget.AppCompatTextView{10d5bad3 V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}
+                      android.widget.LinearLayout{1c1f0610 V.E..... ... 0,310-480,371}
+                        android.support.v7.widget.AppCompatTextView{2d6ea509 V.ED.... ... 0,0-480,61 #7f0d0082 app:id/text}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/user_name_color"
+    android:layout_height="48dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="设置"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/title"
+        android:textColor="@color/white"/>
+
+    <ImageButton
+        android:layout_width="24dp"
+        android:layout_height="20dp"
+        android:src="@mipmap/back_arrow"
+        android:layout_gravity="center|left"
+        android:layout_marginLeft="@dimen/more_large_margin"
+        android:id="@+id/back"
+        android:background="@null"/>
+
+    <ImageButton
+        android:layout_width="24dp"
+        android:layout_height="20dp"
+        android:src="@mipmap/gouxuan"
+        android:layout_gravity="center|right"
+        android:layout_marginRight="@dimen/more_large_margin"
+        android:id="@+id/send"
+        android:visibility="gone"
+        android:background="@null"/>
+
+    <Button
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/gouxuan"
+        android:layout_gravity="center|right"
+        android:layout_marginRight="@dimen/more_large_margin"
+        android:id="@+id/add"
+        android:visibility="gone"
+        android:textSize="14sp"
+        android:text="添加"
+        android:textColor="@color/white"
+        android:background="@null"/>
+
+</FrameLayout>

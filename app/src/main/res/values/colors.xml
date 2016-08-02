@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <!--标题栏颜色-->
+    <color name="user_name_color">#E05523</color>
+    <!-- 主色#28a8fd -->
+    <color name="main_color">#23c2aa</color>
+<!--背景颜色-->
+    <color name="background">#f4f4f4</color>
+    <!--黑色-->
+    <color name="titleline">#ededed</color>
+    <color name="halfblack">#7f000000</color>
+    <!--灰色-->
+    <color name="gray">#b9b9b9</color>
+
+    <!--功能模块字体颜色-->
+    <color name="text_color">#454545</color>
+    <!--功能模块字体颜色-->
+    <color name="text_color_2">#464646</color>
+    <color name="text_color_3">#d4d4d4</color>
+
+    <!-- 淡灰色 #E0E0E0 -->
+    <color name="light_gray">#f3f4f6</color>
+    <!-- 顶部导航栏背景颜色  #28a8fd -->
+    <color name="title_bar_bg">#23c2aa</color>
+    <!-- 黑色 -->
+    <color name="dark_black">#313131</color>
+
+</resources>

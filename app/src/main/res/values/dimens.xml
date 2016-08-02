@@ -1,0 +1,55 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="user_name_size">16sp</dimen>
+
+    <!-- 大字体 -->
+    <dimen name="text_size_18">18sp</dimen>
+    <!-- 中字体 -->
+    <dimen name="text_size_16">16sp</dimen>
+    <!-- 小字体 -->
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_11">11sp</dimen>
+
+    <!--顶部栏高度-->
+    <dimen name="title_height_size">40dp</dimen>
+
+    <!-- 小间距 -->
+    <dimen name="small_margin">4dp</dimen>
+    <!-- ++大间距 -->
+    <dimen name="more2_large_margin">24dp</dimen>
+    <!-- +大间距 -->
+    <dimen name="more_large_margin">16dp</dimen>
+    <!-- 大间距 -->
+    <dimen name="large_margin">12dp</dimen>
+    <!-- 中间距 -->
+    <dimen name="medium_margin">8dp</dimen>
+    <!--字体距离上边的间距-->
+    <dimen name="text_top">6dp</dimen>
+
+
+    <!-- 线的宽度 -->
+    <dimen name="line_width">0.5dp</dimen>
+
+    <!-- 进度条外高 -->
+    <dimen name="progressbar_height_outside">100dp</dimen>
+
+    <!-- 进度条外宽 -->
+    <dimen name="progressbar_width_outside">100dp</dimen>
+
+    <!-- 进度条内高 -->
+    <dimen name="progressbar_height_inside">47dp</dimen>
+
+    <!-- 进度条内宽 -->
+    <dimen name="progressbar_width_inside">47dp</dimen>
+
+    <!-- 广告图原点高度 -->
+    <dimen name="ads_point_layout_height">10dp</dimen>
+
+
+</resources>

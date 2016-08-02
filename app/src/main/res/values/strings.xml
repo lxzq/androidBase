@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">家家帮</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan_title">扫一扫</string>
+    <string name="scan_tip">请将二维码置于取景框内扫描</string>
+    <string name="sd_light">闪光灯</string>
+    <string name="corse">课程</string>
+    <string name="sport">活动</string>
+    <string name="clerk">店员</string>
+    <string name="teacher">老师</string>
+    <string name="block">街区</string>
+    <string name="grow">儿童成长</string>
+    <string name="mall">社区商城</string>
+    <string name="organize">机构</string>
+    <string name="notes">简介</string>
+    <string name="comment">评价</string>
+    <string name="grow_up">成长</string>
+    <string name="share">分享</string>
+    <string name="photo">相册</string>
+    <string name="new_sport">最新活动</string>
+    <string name="more">更多</string>
+    <string name="child_grow">我的成长</string>
+    <string name="child_course">我的课程</string>
+    <string name="details">"活动详情"</string>
+    <string name="assessment">"活动评价"</string>
+    <string name="apply">"报名信息"</string>
+    <string name="cl_details">"课程目录"</string>
+    <string name="cl_assessment">"课程评价"</string>
+    <string name="join">"立刻报名"</string>
+
+    <string name="grow_room">"成长空间"</string>
+    <string name="grow_community">"社区动态"</string>
+    <string name="grow_student">"明星学员"</string>
+    <string name="movement_list">"活动列表"</string>
+    <string name="movement_join">"我参与的"</string>
+    <string name="movement_my">"我发起的"</string>
+    <string name="state">我已阅读并接受版权声明和隐私保护条款</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_child">ChildActivity</string>
+</resources>

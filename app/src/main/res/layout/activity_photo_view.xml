@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".activity.PhotoViewActivity">
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="12dp"
+        android:background="@null"
+        android:gravity="left|center_vertical"
+        android:drawableLeft="@mipmap/back_arrow"
+
+        android:textColor="@color/white" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+    <TextView
+        android:id="@+id/image_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/more2_large_margin"
+        android:gravity="center"
+        android:text="1/4"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_18" />
+
+</RelativeLayout>

@@ -1,0 +1,89 @@
+Applications Graphics Acceleration Info:
+Uptime: 1586767 Realtime: 1586767
+
+** Graphics info for pid 20325 [jjb.bj.com.jiajiabang] **
+
+Recent DisplayList operations
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+                DrawRenderNode
+                  DrawRenderNode
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+                DrawRenderNode
+                  DrawRenderNode
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+                DrawRenderNode
+                  DrawRenderNode
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+                DrawRenderNode
+                  DrawRenderNode
+                    Save
+                    ClipRect
+                    DrawText
+                    RestoreToCount
+              DrawRenderNode
+                Save
+                ClipRect
+                DrawRoundRect
+                RestoreToCount
+              Save
+              ClipRect
+              Translate
+              DrawText
+              RestoreToCount
+    RestoreToCount
+RestoreToCount
+DrawRect
+multiDraw
+  DrawText
+multiDraw
+  DrawPatch
+DrawShadow
+DrawShadow
+DrawShadow
+DrawRoundRect
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           920124 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TessellationCache         912 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                576 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  1445900 bytes, 1.38 MB
+
+Profile data in ms:
+
+	jjb.bj.com.jiajiabang/jjb.bj.com.jiajiabang.activity.MainActivity/android.view.ViewRootImpl@3c5b330e (visibility=0)
+View hierarchy:
+
+  jjb.bj.com.jiajiabang/jjb.bj.com.jiajiabang.activity.MainActivity/android.view.ViewRootImpl@3c5b330e
+  28 views, 29.52 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        28
+Total DisplayList:  29.52 kB
+
